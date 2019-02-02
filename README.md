@@ -1,3 +1,9 @@
+Article on how they create publication graphics in #rstats: http://bit.ly/bbcdataviz 
+
+Cookbook for #ggplot2: http://bit.ly/bbcggplot2 
+
+bbplot📦for their workflow: http://bit.ly/bbcplot 
+
 ## BBPLOT
 
 This repo contains the functions of the `bbplot` package, which once installed locally, provides helpful functions for creating and exporting  graphics made in ggplot in the style used by the BBC News data team.
